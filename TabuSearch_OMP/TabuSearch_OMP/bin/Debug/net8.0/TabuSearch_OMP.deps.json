@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TabuSearch_OMP/1.0.0": {
+        "runtime": {
+          "TabuSearch_OMP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TabuSearch_OMP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

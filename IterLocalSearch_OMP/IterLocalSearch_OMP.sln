@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterLocalSearch_OMP", "IterLocalSearch_OMP\IterLocalSearch_OMP.csproj", "{DDB5C964-3B14-46AC-AEF3-84025212E393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB5C964-3B14-46AC-AEF3-84025212E393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB5C964-3B14-46AC-AEF3-84025212E393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB5C964-3B14-46AC-AEF3-84025212E393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB5C964-3B14-46AC-AEF3-84025212E393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

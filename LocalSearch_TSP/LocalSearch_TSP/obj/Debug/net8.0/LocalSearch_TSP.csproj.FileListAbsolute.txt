@@ -1,0 +1,14 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/bin/Debug/net8.0/LocalSearch_TSP
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/bin/Debug/net8.0/LocalSearch_TSP.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/bin/Debug/net8.0/LocalSearch_TSP.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/bin/Debug/net8.0/LocalSearch_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/bin/Debug/net8.0/LocalSearch_TSP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/obj/Debug/net8.0/LocalSearch_TSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/obj/Debug/net8.0/LocalSearch_TSP.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/obj/Debug/net8.0/LocalSearch_TSP.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/obj/Debug/net8.0/LocalSearch_TSP.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/obj/Debug/net8.0/LocalSearch_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/obj/Debug/net8.0/refint/LocalSearch_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/obj/Debug/net8.0/LocalSearch_TSP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/obj/Debug/net8.0/LocalSearch_TSP.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_TSP/LocalSearch_TSP/obj/Debug/net8.0/ref/LocalSearch_TSP.dll

@@ -1,0 +1,14 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/bin/Debug/net8.0/LocalSearch_OMP
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/bin/Debug/net8.0/LocalSearch_OMP.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/bin/Debug/net8.0/LocalSearch_OMP.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/bin/Debug/net8.0/LocalSearch_OMP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/bin/Debug/net8.0/LocalSearch_OMP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/refint/LocalSearch_OMP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/ref/LocalSearch_OMP.dll

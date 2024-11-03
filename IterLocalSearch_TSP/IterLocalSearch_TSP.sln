@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterLocalSearch_TSP", "IterLocalSearch_TSP\IterLocalSearch_TSP.csproj", "{011E1962-28E4-4F2C-BC2C-AB5B108FBD8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{011E1962-28E4-4F2C-BC2C-AB5B108FBD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011E1962-28E4-4F2C-BC2C-AB5B108FBD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011E1962-28E4-4F2C-BC2C-AB5B108FBD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011E1962-28E4-4F2C-BC2C-AB5B108FBD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
