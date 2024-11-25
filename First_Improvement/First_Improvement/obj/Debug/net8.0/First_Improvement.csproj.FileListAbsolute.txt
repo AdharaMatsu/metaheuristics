@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/bin/Debug/net8.0/First_Improvement
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/bin/Debug/net8.0/First_Improvement.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/bin/Debug/net8.0/First_Improvement.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/bin/Debug/net8.0/First_Improvement.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/bin/Debug/net8.0/First_Improvement.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/First_Improvement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/First_Improvement.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/First_Improvement.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/First_Improvement.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/First_Improvement.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/First_Improvement.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/refint/First_Improvement.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/First_Improvement.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/First_Improvement.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/First_Improvement/First_Improvement/obj/Debug/net8.0/ref/First_Improvement.dll

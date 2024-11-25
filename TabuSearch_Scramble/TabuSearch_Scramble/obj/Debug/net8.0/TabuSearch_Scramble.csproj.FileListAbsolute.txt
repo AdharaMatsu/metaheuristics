@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/bin/Debug/net8.0/TabuSearch_Scramble
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/bin/Debug/net8.0/TabuSearch_Scramble.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/bin/Debug/net8.0/TabuSearch_Scramble.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/bin/Debug/net8.0/TabuSearch_Scramble.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/bin/Debug/net8.0/TabuSearch_Scramble.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/TabuSearch_Scramble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/TabuSearch_Scramble.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/TabuSearch_Scramble.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/TabuSearch_Scramble.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/TabuSearch_Scramble.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/TabuSearch_Scramble.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/refint/TabuSearch_Scramble.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/TabuSearch_Scramble.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/TabuSearch_Scramble.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Scramble/TabuSearch_Scramble/obj/Debug/net8.0/ref/TabuSearch_Scramble.dll

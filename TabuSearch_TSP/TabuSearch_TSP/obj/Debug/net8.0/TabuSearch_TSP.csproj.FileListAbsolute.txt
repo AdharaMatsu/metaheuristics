@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/bin/Debug/net8.0/TabuSearch_TSP
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/bin/Debug/net8.0/TabuSearch_TSP.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/bin/Debug/net8.0/TabuSearch_TSP.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/bin/Debug/net8.0/TabuSearch_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/bin/Debug/net8.0/TabuSearch_TSP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/TabuSearch_TSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/TabuSearch_TSP.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/TabuSearch_TSP.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/TabuSearch_TSP.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/TabuSearch_TSP.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/TabuSearch_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/refint/TabuSearch_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/TabuSearch_TSP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/TabuSearch_TSP.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_TSP/TabuSearch_TSP/obj/Debug/net8.0/ref/TabuSearch_TSP.dll

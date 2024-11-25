@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/bin/Debug/net8.0/IterLocalSearch_Scramble
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/bin/Debug/net8.0/IterLocalSearch_Scramble.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/bin/Debug/net8.0/IterLocalSearch_Scramble.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/bin/Debug/net8.0/IterLocalSearch_Scramble.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/bin/Debug/net8.0/IterLocalSearch_Scramble.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/IterLocalSearch_Scramble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/IterLocalSearch_Scramble.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/IterLocalSearch_Scramble.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/IterLocalSearch_Scramble.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/IterLocalSearch_Scramble.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/IterLocalSearch_Scramble.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/refint/IterLocalSearch_Scramble.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/IterLocalSearch_Scramble.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/IterLocalSearch_Scramble.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Scramble/IterLocalSearch_Scramble/obj/Debug/net8.0/ref/IterLocalSearch_Scramble.dll

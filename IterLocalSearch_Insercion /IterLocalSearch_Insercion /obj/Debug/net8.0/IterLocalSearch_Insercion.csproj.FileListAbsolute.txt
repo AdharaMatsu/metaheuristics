@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /bin/Debug/net8.0/IterLocalSearch_Insercion
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /bin/Debug/net8.0/IterLocalSearch_Insercion.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /bin/Debug/net8.0/IterLocalSearch_Insercion.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /bin/Debug/net8.0/IterLocalSearch_Insercion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /bin/Debug/net8.0/IterLocalSearch_Insercion.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/IterLocalSearch_Insercion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/IterLocalSearch_Insercion.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/IterLocalSearch_Insercion.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/IterLocalSearch_Insercion.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/IterLocalSearch_Insercion.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/IterLocalSearch_Insercion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/refint/IterLocalSearch_Insercion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/IterLocalSearch_Insercion.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/IterLocalSearch_Insercion.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Insercion /IterLocalSearch_Insercion /obj/Debug/net8.0/ref/IterLocalSearch_Insercion.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IterLocalSearch_Inversion/1.0.0": {
+        "runtime": {
+          "IterLocalSearch_Inversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IterLocalSearch_Inversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

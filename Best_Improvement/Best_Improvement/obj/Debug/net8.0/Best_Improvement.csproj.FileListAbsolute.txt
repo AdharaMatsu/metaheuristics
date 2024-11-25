@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/bin/Debug/net8.0/Best_Improvement
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/bin/Debug/net8.0/Best_Improvement.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/bin/Debug/net8.0/Best_Improvement.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/bin/Debug/net8.0/Best_Improvement.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/bin/Debug/net8.0/Best_Improvement.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/Best_Improvement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/Best_Improvement.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/Best_Improvement.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/Best_Improvement.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/Best_Improvement.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/Best_Improvement.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/refint/Best_Improvement.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/Best_Improvement.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/Best_Improvement.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/Best_Improvement/Best_Improvement/obj/Debug/net8.0/ref/Best_Improvement.dll

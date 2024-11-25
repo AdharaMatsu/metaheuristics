@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/bin/Debug/net8.0/IterLocalSearch_Inversion
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/bin/Debug/net8.0/IterLocalSearch_Inversion.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/bin/Debug/net8.0/IterLocalSearch_Inversion.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/bin/Debug/net8.0/IterLocalSearch_Inversion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/bin/Debug/net8.0/IterLocalSearch_Inversion.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/IterLocalSearch_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/IterLocalSearch_Inversion.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/IterLocalSearch_Inversion.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/IterLocalSearch_Inversion.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/IterLocalSearch_Inversion.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/IterLocalSearch_Inversion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/refint/IterLocalSearch_Inversion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/IterLocalSearch_Inversion.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/IterLocalSearch_Inversion.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_Inversion/IterLocalSearch_Inversion/obj/Debug/net8.0/ref/IterLocalSearch_Inversion.dll
