@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/bin/Debug/net8.0/ConvertTspToCSV
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/bin/Debug/net8.0/ConvertTspToCSV.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/bin/Debug/net8.0/ConvertTspToCSV.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/bin/Debug/net8.0/ConvertTspToCSV.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/bin/Debug/net8.0/ConvertTspToCSV.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/ConvertTspToCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/ConvertTspToCSV.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/ConvertTspToCSV.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/ConvertTspToCSV.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/ConvertTspToCSV.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/ConvertTspToCSV.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/refint/ConvertTspToCSV.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/ConvertTspToCSV.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/ConvertTspToCSV.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/ConvertTspToCSV/ConvertTspToCSV/obj/Debug/net8.0/ref/ConvertTspToCSV.dll

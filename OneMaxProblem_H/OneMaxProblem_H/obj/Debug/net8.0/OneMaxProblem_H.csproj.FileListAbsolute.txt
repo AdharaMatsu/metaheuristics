@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/bin/Debug/net8.0/OneMaxProblem_H
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/bin/Debug/net8.0/OneMaxProblem_H.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/bin/Debug/net8.0/OneMaxProblem_H.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/bin/Debug/net8.0/OneMaxProblem_H.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/bin/Debug/net8.0/OneMaxProblem_H.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/OneMaxProblem_H.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/OneMaxProblem_H.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/OneMaxProblem_H.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/OneMaxProblem_H.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/OneMaxProblem_H.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/OneMaxProblem_H.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/refint/OneMaxProblem_H.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/OneMaxProblem_H.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/OneMaxProblem_H.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/OneMaxProblem_H/OneMaxProblem_H/obj/Debug/net8.0/ref/OneMaxProblem_H.dll

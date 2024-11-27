@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/bin/Debug/net8.0/TabuSearch_Insercion
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/bin/Debug/net8.0/TabuSearch_Insercion.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/bin/Debug/net8.0/TabuSearch_Insercion.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/bin/Debug/net8.0/TabuSearch_Insercion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/bin/Debug/net8.0/TabuSearch_Insercion.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/TabuSearch_Insercion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/TabuSearch_Insercion.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/TabuSearch_Insercion.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/TabuSearch_Insercion.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/TabuSearch_Insercion.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/TabuSearch_Insercion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/refint/TabuSearch_Insercion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/TabuSearch_Insercion.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/TabuSearch_Insercion.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Insercion/TabuSearch_Insercion/obj/Debug/net8.0/ref/TabuSearch_Insercion.dll

@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/bin/Debug/net8.0/SA_OMP
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/bin/Debug/net8.0/SA_OMP.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/bin/Debug/net8.0/SA_OMP.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/bin/Debug/net8.0/SA_OMP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/bin/Debug/net8.0/SA_OMP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/SA_OMP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/SA_OMP.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/SA_OMP.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/SA_OMP.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/SA_OMP.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/SA_OMP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/refint/SA_OMP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/SA_OMP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/SA_OMP.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_OMP/SA_OMP/obj/Debug/net8.0/ref/SA_OMP.dll

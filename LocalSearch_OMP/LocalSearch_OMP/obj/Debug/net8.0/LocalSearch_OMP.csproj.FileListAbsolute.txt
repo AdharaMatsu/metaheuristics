@@ -12,3 +12,4 @@
 /Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.pdb
 /Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.genruntimeconfig.cache
 /Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/ref/LocalSearch_OMP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/LocalSearch_OMP/LocalSearch_OMP/obj/Debug/net8.0/LocalSearch_OMP.sourcelink.json

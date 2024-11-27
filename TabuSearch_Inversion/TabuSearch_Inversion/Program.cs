@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using TabuSearch_Inversion;
 
-Console.WriteLine("Hello, World!");
+TabuSearch.Run("coordenadas.csv");

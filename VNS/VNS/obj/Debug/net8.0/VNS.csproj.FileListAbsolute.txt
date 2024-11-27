@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/bin/Debug/net8.0/VNS
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/bin/Debug/net8.0/VNS.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/bin/Debug/net8.0/VNS.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/bin/Debug/net8.0/VNS.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/bin/Debug/net8.0/VNS.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/VNS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/VNS.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/VNS.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/VNS.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/VNS.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/VNS.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/refint/VNS.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/VNS.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/VNS.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/VNS/VNS/obj/Debug/net8.0/ref/VNS.dll

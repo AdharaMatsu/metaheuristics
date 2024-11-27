@@ -12,7 +12,7 @@ public class LocalSearch
 
         //int []optima_local;
 
-        rnd = new Random(5);
+        rnd = new Random();
 
         // generacion de la solucional inicial  - aleatoria
         for (i = 0; i < n; i++)

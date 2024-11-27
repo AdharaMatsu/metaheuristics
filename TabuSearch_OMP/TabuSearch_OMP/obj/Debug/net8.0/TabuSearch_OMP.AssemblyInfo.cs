@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TabuSearch_OMP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0669cddd614673b02307312f4f3fc93dbe8d6692")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c504aa149b67a7f24e58f912ead5ab8cfad4e46")]
 [assembly: System.Reflection.AssemblyProductAttribute("TabuSearch_OMP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TabuSearch_OMP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

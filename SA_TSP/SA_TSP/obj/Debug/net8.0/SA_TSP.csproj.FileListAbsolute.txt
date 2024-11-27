@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/bin/Debug/net8.0/SA_TSP
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/bin/Debug/net8.0/SA_TSP.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/bin/Debug/net8.0/SA_TSP.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/bin/Debug/net8.0/SA_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/bin/Debug/net8.0/SA_TSP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/SA_TSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/SA_TSP.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/SA_TSP.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/SA_TSP.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/SA_TSP.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/SA_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/refint/SA_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/SA_TSP.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/SA_TSP.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/SA_TSP/SA_TSP/obj/Debug/net8.0/ref/SA_TSP.dll

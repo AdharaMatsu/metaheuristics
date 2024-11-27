@@ -16,10 +16,10 @@ public static class LocalSearch
         
         NodoInicial = rnd.Next(0, n);
         solucionInicial = GenerarSolucionInicialExp(NodoInicial);
-        Console.Write("Solucion Inicial: ");
-        Print(solucionInicial);
+        //Console.Write("Solucion Inicial: ");
+        //Print(solucionInicial);
         FO = FuncionObjetivo(solucionInicial, grafo);
-        Console.WriteLine("Funcion Objetivo: " + FO+"\n");
+        //Console.WriteLine("Funcion Objetivo: " + FO+"\n");
 
 
         while (iteraciones > 0)
@@ -32,14 +32,14 @@ public static class LocalSearch
             {
                 solucionInicial = solucionVecina.ToArray();
                 FO = FO_Vecina;
-                Console.Write("Solucion Vecina: ");
-                Print(solucionInicial);
-                Console.Write("Funcion Objetivo: " + FO+"\n");
-                Console.WriteLine("iter: "+iteraciones+"\n");
+               
                 
             }
             iteraciones -= 1;
         }
+        //Console.Write("Solucion Final: ");
+        //Print(solucionInicial);
+        Console.Write(FO+"\n");
     }
     private static int[][] Create(string filename)
     {

@@ -1,0 +1,15 @@
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/bin/Debug/net8.0/TabuSearch_Inversion
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/bin/Debug/net8.0/TabuSearch_Inversion.deps.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/bin/Debug/net8.0/TabuSearch_Inversion.runtimeconfig.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/bin/Debug/net8.0/TabuSearch_Inversion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/bin/Debug/net8.0/TabuSearch_Inversion.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/TabuSearch_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/TabuSearch_Inversion.AssemblyInfoInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/TabuSearch_Inversion.AssemblyInfo.cs
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/TabuSearch_Inversion.csproj.CoreCompileInputs.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/TabuSearch_Inversion.sourcelink.json
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/TabuSearch_Inversion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/refint/TabuSearch_Inversion.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/TabuSearch_Inversion.pdb
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/TabuSearch_Inversion.genruntimeconfig.cache
+/Users/adharacavazos/codes/c-sharp/metaheuristics/TabuSearch_Inversion/TabuSearch_Inversion/obj/Debug/net8.0/ref/TabuSearch_Inversion.dll
