@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-using System.Text.Json.Serialization;
-using LocalSearch_TSP;
+﻿using LocalSearch_TSP;
 
 // 6 coordenadas
 //LocalSearch.Run("rnd_coordinate.csv");
@@ -15,10 +13,10 @@ string[] archivosCsv = Directory.GetFiles(carpeta, "*.csv"); // Obtiene todos lo
 for (i = 0; i < archivosCsv.Length; i++)
 {
     Console.WriteLine(archivosCsv[i]);
-    /*for (j = 0; j < num_pruebas; j++)
+    for (j = 0; j < num_pruebas; j++)
     {
         //LocalSearch.Run("coordenadas.csv");
         //LocalSearch.Run("rnd_coordinate.csv");
         LocalSearch.Run(archivosCsv[i]);
-    }*/
+    }
 }

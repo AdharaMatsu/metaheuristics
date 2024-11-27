@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalSearch_TSP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c504aa149b67a7f24e58f912ead5ab8cfad4e46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0cae48d00858ffe69f3da67c4c523988e5f1577")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalSearch_TSP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalSearch_TSP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
