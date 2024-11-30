@@ -19,10 +19,10 @@ namespace IterLocalSearch_Scramble
             solucionInicial = SolucionInicial(NodoInicial);
             solucionVecina = new int[n];
 
-            Console.Write("Solución Inicial: ");
-            Print(solucionInicial);
+            //Console.Write("Solución Inicial: ");
+            //Print(solucionInicial);
             VO = FuncionObjetivo(solucionInicial, grafo);
-            Console.WriteLine("Función Objetivo: " + VO + "\n");
+            //Console.WriteLine("Función Objetivo: " + VO + "\n");
 
             while (iteraciones > 0)
             {
@@ -47,10 +47,10 @@ namespace IterLocalSearch_Scramble
                 iteraciones -= 1;
             }
 
-            Console.Write("Best Solución: ");
-            Print(solucionVecina);
-            Console.Write("Best VO: ");
-            Console.WriteLine(VO + "\n\n");
+            //Console.Write("Best Solución: ");
+            //Print(solucionVecina);
+            //Console.Write("Best VO: ");
+            Console.WriteLine(VO);
         }
 
         private static int[] genera_vecina_perturbada(int[] solucion)

@@ -18,10 +18,10 @@ public static class IterLocalSearch
         NodoInicial = rnd.Next(0, n);
         solucionInicial = SolucionInicial(NodoInicial);
         solucionVecina = new int[n];
-        Console.Write("Solucion Inicial: ");
-        Print(solucionInicial);
+        //Console.Write("Solucion Inicial: ");
+        //Print(solucionInicial);
         VO = FuncionObjetivo(solucionInicial, grafo);
-        Console.WriteLine("Funcion Objetivo: " + VO+"\n");
+        //Console.WriteLine("Funcion Objetivo: " + VO+"\n");
 
         while (iteraciones > 0)
         {
@@ -37,10 +37,10 @@ public static class IterLocalSearch
             iteraciones -= 1;
         }
         
-        Console.Write("Best Solucion:");
-        Print(solucionVecina);
-        Console.Write("Best VO:");
-        Console.WriteLine(VO + "\n\n");
+        //Console.Write("Best Solucion:");
+        //Print(solucionVecina);
+        //Console.Write("Best VO:");
+        Console.WriteLine(VO );
     }
     
     private static int[] genera_vecina_perturbada(int[] solucion)

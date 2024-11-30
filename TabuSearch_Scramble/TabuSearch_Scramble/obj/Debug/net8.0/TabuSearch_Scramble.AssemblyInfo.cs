@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TabuSearch_Scramble")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c504aa149b67a7f24e58f912ead5ab8cfad4e46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc363be74d8750cc6e5f129ae5c930c66e1c3e40")]
 [assembly: System.Reflection.AssemblyProductAttribute("TabuSearch_Scramble")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TabuSearch_Scramble")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

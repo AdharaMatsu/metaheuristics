@@ -12,3 +12,4 @@
 /Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_TSP/IterLocalSearch_TSP/obj/Debug/net8.0/IterLocalSearch_TSP.pdb
 /Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_TSP/IterLocalSearch_TSP/obj/Debug/net8.0/IterLocalSearch_TSP.genruntimeconfig.cache
 /Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_TSP/IterLocalSearch_TSP/obj/Debug/net8.0/ref/IterLocalSearch_TSP.dll
+/Users/adharacavazos/codes/c-sharp/metaheuristics/IterLocalSearch_TSP/IterLocalSearch_TSP/obj/Debug/net8.0/IterLocalSearch_TSP.sourcelink.json

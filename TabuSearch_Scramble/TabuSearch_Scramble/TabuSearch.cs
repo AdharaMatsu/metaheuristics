@@ -33,10 +33,10 @@ public static class TabuSearch
 
         #endregion
 
-        Console.Write("Solucion Inicial: ");
-        Print(solucionInicial);
+        //Console.Write("Solucion Inicial: ");
+        //Print(solucionInicial);
         FO = FuncionObjetivo(solucionInicial, grafo);
-        Console.WriteLine("Funcion Objetivo: " + FO + "\n");
+        //Console.WriteLine("Funcion Objetivo: " + FO + "\n");
 
         while (iteraciones > 0)
         {
@@ -57,9 +57,9 @@ public static class TabuSearch
 
             iteraciones--;
         }
-        Console.Write("Nueva solucion: ");
-        Print(nueva_solucion);
-        Console.Write("VO: " + best_VOactual);
+        //Console.Write("Nueva solucion: ");
+        //Print(nueva_solucion);
+        Console.WriteLine(best_VOactual);
     }
 
     private static int[] generarVecina(int[] solucion)

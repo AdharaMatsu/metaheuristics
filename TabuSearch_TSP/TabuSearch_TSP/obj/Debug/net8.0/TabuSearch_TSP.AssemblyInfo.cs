@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TabuSearch_TSP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0669cddd614673b02307312f4f3fc93dbe8d6692")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc363be74d8750cc6e5f129ae5c930c66e1c3e40")]
 [assembly: System.Reflection.AssemblyProductAttribute("TabuSearch_TSP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TabuSearch_TSP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
